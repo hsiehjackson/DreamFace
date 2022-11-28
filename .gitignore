@@ -1,0 +1,14 @@
+outputs-*/
+outputs/
+regularization_images/
+training_images_cp/
+training_images_jy/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.DS_Store
+gen.bat
+gen_ref.bat
+train.bat
+__pycache__
+*/**/__pycache__
+logs
